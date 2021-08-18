@@ -1,7 +1,11 @@
 # raycast-search-chrome-tabs
 A Raycast script that matches input with Chrome tab titles and opens best match. Defaults to latests tab in case there's no match.
 
-**Installation** (There might be an easier way, this is just how I do it)
+### Demo
+![script5](https://user-images.githubusercontent.com/42960598/129918147-30e4c7bd-f181-4919-990a-7b40d75035e4.gif)
+
+
+### Installation (There might be an easier way, this is just how I do it)
 1. Copy repository to desired folder
 2. Run `npm install` to install [Fuse.js](https://fusejs.io/)
 3. Install [chrome-cli](https://github.com/prasmussen/chrome-cli) (e.g. using brew)
