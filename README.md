@@ -1,4 +1,4 @@
-# raycast-search-chrome-tabs
+# Raycast open Chrome tab
 A Raycast script that matches input with Chrome tab titles and opens best match. Defaults to latests tab in case there's no match.
 
 ### Demo
