@@ -1,5 +1,5 @@
 # raycast-search-chrome-tabs
-A Raycast script that matches input with Chrome tab titles and opens best match
+A Raycast script that matches input with Chrome tab titles and opens best match. Defaults to latests tab in case there's no match.
 
 **Installation** (There might be an easier way, this is just how I do it)
 1. Copy repository to desired folder
