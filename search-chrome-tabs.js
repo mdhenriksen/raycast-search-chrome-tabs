@@ -54,7 +54,7 @@ const findSearchMatch = () => {
   const results = fuse.search(searchTerm);
 
   let refIndex = results[0]?.refIndex;
-  matchChromeTabId = refIndex ? idsArray[refIndex] : idsArray[idsArray.length - 1];
+  matchChromeTabId = refIndex !== undefined ? idsArray[refIndex] : idsArray[idsArray.length - 1];
 
   activateChromeTab();
 };
