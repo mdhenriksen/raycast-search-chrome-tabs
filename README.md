@@ -15,3 +15,6 @@ brew install chrome-cli
 4. Create Raycast script in the same folder as step `1` (official instructions [here](https://github.com/raycast/script-commands#create-your-own-script-commands))
 5. Copy code from `search-chrome-tabs.js` to your created script file
 6. Use script 🎉
+
+### Ideas for improvements
+1. Perhaps there's an AppleScript that allows activating a specific Chrome tab based on it's ID. If there is, then `chrome-cli` can be dropped as a dependency.
